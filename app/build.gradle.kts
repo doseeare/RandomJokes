@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "sorry.bezobid.randomjokes"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "sorry.bezobid.randomjokes"

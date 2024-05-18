@@ -1,4 +1,4 @@
-package sorry.bezobid.randomjokes.ui.theme
+package sorry.bezobid.randomjokes.presentation.ui
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package sorry.bezobid.randomjokes
+package sorry.bezobid.randomjokes.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import sorry.bezobid.randomjokes.ui.theme.RandomJokesTheme
+import sorry.bezobid.randomjokes.presentation.ui.RandomJokesTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
